@@ -1,0 +1,43 @@
+1
+Ana Perez
+clave1
+2
+Ana Perez
+clave1
+2
+1
+Sueldo noviembre
+3000
+1
+01/11/2026
+0
+3
+1
+1
+Alquiler
+1000
+3
+02/11/2026
+0
+4
+1
+1
+Viaje a Cochabamba
+1000
+250
+3
+1
+0
+2
+2
+0
+0
+5
+1
+500
+03/11/2026
+2
+3
+0
+0
+0
